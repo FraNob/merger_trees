@@ -1,6 +1,3 @@
-# ilovegit
+# BH merger trees
 
-First repo created to learn git.
-
-* First point
-* Second point to check how pulls work
+Notebook to count and print possible merger trees of N BHs
